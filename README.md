@@ -1,2 +1,1 @@
-#hola-vsc1
-primer repositicio inicial en local y publicado con ssh desde vs code
+will be ignored, and an empty message aborts the commit. este es mi primer repositorio
